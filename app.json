@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with the word CLOUD-AI~$",
       "required": true,
-      "value": "CLOUD-AI~AIYz0TBR#VHxIYPed7klMhMFtz1Cmil8c0S3kKsIhb12KaUAMc5o"
+      "value": "CLOUD-AI~5ZByBTSI#SNp2ulu1VaZAUrso3xnk1vnLJWkwTNY8N7OYoOh4j9g"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
