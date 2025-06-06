@@ -1,5 +1,5 @@
 {
-  "name": "CLOUD Ai",
+  "name": "BIIG DHOPE",
   "description": "🚀 CLOUD AI WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
   "logo": "https://files.catbox.moe/7jt69h.jpg",
   "keywords": ["BERA-TECH", "whatsapp-bot", "whatsapp-md-bot"],
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with the word CLOUD-AI~$",
       "required": true,
-      "value": "CLOUD-AI~5ZByBTSI#SNp2ulu1VaZAUrso3xnk1vnLJWkwTNY8N7OYoOh4j9g"
+      "value": "CLOUD-AI~NBBjUDTa#u8eDotFepvqf8YQCfo6EtomhVtHb4Ze5sYeXHzGucag"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "Nana kwadwo"
+      "value": "BIIG DHOPE"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "233202429182"
+      "value": "233593412682"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
